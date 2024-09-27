@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
+  <!-- Background -->
+  <rect width="1280" height="640" fill="#F05340"/>
+  
+  <!-- Laravel Logo -->
+  <path d="M240 190 L360 190 L300 310 Z" fill="#ffffff"/>
+  
+  <!-- Shield Icon -->
+  <path d="M640 140 L740 190 L740 350 L640 400 L540 350 L540 190 Z" fill="none" stroke="#ffffff" stroke-width="20"/>
+  <path d="M570 230 L710 230 L710 330 L640 370 L570 330 Z" fill="#ffffff"/>
+  
+  <!-- Gears -->
+  <g transform="translate(920,320) rotate(45)">
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#ffffff" stroke-width="20"/>
+    <circle cx="0" cy="0" r="30" fill="#ffffff"/>
+    <rect x="-10" y="-80" width="20" height="50" fill="#ffffff"/>
+    <rect x="-10" y="30" width="20" height="50" fill="#ffffff"/>
+    <rect x="-80" y="-10" width="50" height="20" fill="#ffffff"/>
+    <rect x="30" y="-10" width="50" height="20" fill="#ffffff"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="640" y="500" font-family="Arial, sans-serif" font-size="48" fill="#ffffff" text-anchor="middle">Laravel Proof of Work</text>
+  <text x="640" y="560" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle">Spam &amp; DDoS Protection</text>
+</svg>
